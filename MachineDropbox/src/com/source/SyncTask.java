@@ -1,4 +1,4 @@
-package com.client;
+package com.source;
 
 public class SyncTask {
 
